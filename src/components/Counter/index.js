@@ -11,7 +11,7 @@ class Counter extends Component {
     this.setState(prevState => ({count: prevState.count - 1}))
   }
   render() {
-    const {count} = this.state
+    constccbp start RJSCP83UDS {count} = this.state
     return (
       <div>
         <h1>Counter Application</h1>
